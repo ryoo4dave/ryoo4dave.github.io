@@ -28,16 +28,13 @@ header {
     z-index: 9999;
 
 
-  /*position: relative;*/
-/*  width: 100%;
+/*position: relative;*/
+/*width: 100%;
   max-width: 960px;
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box; */
 }
-
-
-
 
 .nav-up {
     top: -40px;
