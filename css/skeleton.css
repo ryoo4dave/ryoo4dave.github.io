@@ -161,6 +161,10 @@ a {
 /*   color: #1EAEDB; */
   color: #0ABAB5;
 }
+a[href^="tel"] {
+  color: inherit; /* Inherit text color of parent element. */
+  text-decoration: none; /* Remove underline. */
+}
 a:hover {
 /*   color: #0FA0CE; */
   color: #0ABAB5;
