@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>428 - Gallery - The Day</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+</head>
+<body>
+
+<!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+<div class="container">
+  <div class="row">
+    <div class="twelve columns" style="text-align: center;">
+      <img src="/images/vsattui-eng-paper.jpg" style="width:50%;max-width:500px">
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="six columns" style="text-align: center;"> 
+        <p></p><img id="myImg" src="/images/vsattui-eng-paper.jpg" style="width:100%;max-width:500px"></p>
+        <p></p><img id="myImg" src="/images/vsattui-eng-paper.jpg" style="width:100%;max-width:500px"></p>
+    </div>
+    <div class="six columns" style="text-align: center;"> 
+      <p>
+        <img src="/images/vsattui-eng-paper.jpg" style="max-width: 500px; width: 100%;"></p>
+    </div>  
+  </div>
+</div>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>
