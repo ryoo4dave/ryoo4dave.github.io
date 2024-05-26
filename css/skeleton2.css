@@ -142,8 +142,16 @@ body {
   color: #222; }
 
 img {
-  padding: 2.1rem;
+  padding: 1.5rem;
 }
+
+@media (min-width: 550px) {
+  img {
+    padding: 2.1rem;
+  }
+}
+
+
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3, h4, h5, h6, h7 {
