@@ -47,7 +47,7 @@
 
 @media (min-width: 400px) {
 .padding {
-  padding-bottom: 0px;
+  padding-bottom: 1.2rem;
 }
 }
 
@@ -140,17 +140,6 @@ body {
   font-weight: 400;
   font-family: system-ui, "AppleMyungjo", "NanumMyeongjo", "Google" "Raleway", "Google" "Oswald", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222; }
-
-img {
-  padding-bottom: 1.5rem;
-}
-
-@media (min-width: 550px) {
-  img {
-    padding-bottom: 2.1rem;
-  }
-}
-
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
