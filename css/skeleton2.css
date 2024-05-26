@@ -42,7 +42,7 @@
   box-sizing: border-box; }
 
 .padding {
-  padding-bottom: 10px;
+  padding-bottom: 0px;
 }
 
 @media (min-width: 400px) {
