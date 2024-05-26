@@ -142,12 +142,12 @@ body {
   color: #222; }
 
 img {
-  padding: 1.5rem;
+  padding-bottom: 1.5rem;
 }
 
 @media (min-width: 550px) {
   img {
-    padding: 2.1rem;
+    padding-bottom: 2.1rem;
   }
 }
 
