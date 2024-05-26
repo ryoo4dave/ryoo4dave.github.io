@@ -52,7 +52,10 @@
 /* @media (min-width: 550px) { */
 @media (max-width: 960px) {
   .container {
-    width: 80%; }
+/*     width: 80%; */
+    width: 100%;
+  }
+
   .column,
   .columns {
     margin-left: 4%; }
