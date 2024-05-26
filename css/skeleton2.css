@@ -40,14 +40,19 @@
   width: 100%;
   float: left;
   box-sizing: border-box; }
-
+/* 
 .padded img { 
     padding-bottom: 2em; 
+} */
+
+img {
+  padding-bottom: 2em;
 }
 
 @media (min-width: 400px) {
-  .padded img {
-    padding-bottom: 1em; }
+img {
+  padding-bottom: 1em;
+}
 }
 
 /* For devices larger than 400px */
