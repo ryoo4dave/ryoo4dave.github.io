@@ -40,18 +40,14 @@
   width: 100%;
   float: left;
   box-sizing: border-box; }
-/* 
-.padded img { 
-    padding-bottom: 2em; 
-} */
 
 .padding {
-  padding-bottom: 2em;
+  padding-bottom: 4em;
 }
 
 @media (min-width: 400px) {
 .padding {
-  padding-bottom: 1em;
+  padding-bottom: 2em;
 }
 }
 
