@@ -45,12 +45,12 @@
     padding-bottom: 2em; 
 } */
 
-img {
+.padding {
   padding-bottom: 2em;
 }
 
 @media (min-width: 400px) {
-img {
+.padding {
   padding-bottom: 1em;
 }
 }
