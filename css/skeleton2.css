@@ -49,13 +49,13 @@
 } */
 
 /* For devices larger than 550px */
-/* @media (min-width: 550px) { */
-@media (max-width: 960px) {
+@media (min-width: 550px) {
   .container {
-/*     width: 80%; */
-    width: 100%;
+    width: 80%;
+/*     width: 100%; */
   }
-
+}
+  
   .column,
   .columns {
     margin-left: 4%; }
@@ -114,7 +114,7 @@
   .offset-by-one-half.column,
   .offset-by-one-half.columns     { margin-left: 52%; }
 
-}
+/* } */
 
 
 /* Base Styles
